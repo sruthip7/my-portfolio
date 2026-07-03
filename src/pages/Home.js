@@ -9,7 +9,7 @@ function Home() {
         <div className="nav-links">
           <a href="#work">Work</a>
           <a href="#about">About</a>
-          <a href="/resume.pdf" target="_blank">Resume</a>
+          <a href="/resume2.pdf" target="_blank">Resume</a>
 
         </div>
       </nav>
@@ -92,7 +92,7 @@ function Home() {
     <div className="footer-links">
     <a href="https://www.linkedin.com/in/sruthi-putcha-7277b3335/" target="_blank" rel="noreferrer">LinkedIn</a>
     <a href="mailto:putchasruthi@gmail.com">Email</a>
-    <a href="/resume.pdf" target="_blank">Resume</a>
+    <a href="/resume2.pdf" target="_blank">Resume</a>
   </div>
   <p>© 2026</p>
 </footer>
